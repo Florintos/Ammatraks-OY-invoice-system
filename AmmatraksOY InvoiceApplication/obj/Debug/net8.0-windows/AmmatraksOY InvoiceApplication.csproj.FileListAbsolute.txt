@@ -1,0 +1,22 @@
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\bin\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.exe
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\bin\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.deps.json
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\bin\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.runtimeconfig.json
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\bin\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.dll
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\bin\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.pdb
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\MainMenu.g.cs
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication_MarkupCompile.cache
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication_MarkupCompile.lref
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\MainMenu.baml
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.g.resources
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.AssemblyInfoInputs.cache
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.AssemblyInfo.cs
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.csproj.CoreCompileInputs.cache
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.dll
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\refint\AmmatraksOY InvoiceApplication.dll
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.pdb
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\AmmatraksOY InvoiceApplication.genruntimeconfig.cache
+C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\ref\AmmatraksOY InvoiceApplication.dll
