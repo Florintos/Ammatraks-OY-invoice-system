@@ -22,6 +22,7 @@ namespace AmmatraksOY_InvoiceApplication.View
     {
         // Property to expose the new client object
         public Client NewClient { get; private set; }
+        //hje
 
 
 
