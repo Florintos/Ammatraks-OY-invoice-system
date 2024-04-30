@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\
+C:\Users\Florint Sadiku\Visual studio Projects\Ammatraks OY new repository\AmmatraksOY InvoiceApplication\obj\Debug\net8.0-windows\
 AmmatraksOY_InvoiceApplication
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\App.xaml
-2425204786
+C:\Users\Florint Sadiku\Visual studio Projects\Ammatraks OY new repository\AmmatraksOY InvoiceApplication\App.xaml
+10494731053
 
-7-1420044211
+24-1791639423
 198155382431
-MainMenu.xaml;MainWindow.xaml;
+View\AddClientDataWindow.xaml;View\AddInvoiceDataWindow.xaml;View\AddProjectDataWindow.xaml;View\AdminMainWindow.xaml;View\ArchivesDemo.xaml;View\ArchivesMenuWindow.xaml;View\LoginWindow.xaml;View\WorkerDropdown.xaml;View\WorkerMainWindow.xaml;View\WorkerMenuWindow.xaml;
 
 True
 

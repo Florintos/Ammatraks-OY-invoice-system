@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\Florint Sadiku\Visual studio Projects\AmmatraksOY InvoiceApplication\AmmatraksOY InvoiceApplication\App.xaml
-2425204786
+10494731053
 
-5-447137094
+22-818732306
 198155382431
-MainMenu.xaml;MainWindow.xaml;
+View\AddClientDataWindow.xaml;View\AddInvoiceDataWindow.xaml;View\AddProjectDataWindow.xaml;View\AdminMainWindow.xaml;View\ArchivesDemo.xaml;View\ArchivesMenuWindow.xaml;View\LoginWindow.xaml;View\WorkerDropdown.xaml;View\WorkerMainWindow.xaml;View\WorkerMenuWindow.xaml;
 
 False
 

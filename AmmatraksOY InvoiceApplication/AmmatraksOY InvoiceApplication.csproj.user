@@ -7,15 +7,36 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
-    <Compile Update="MainMenu.xaml.cs">
+    <Compile Update="View\AddClientDataWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddInvoiceDataWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddProjectDataWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\ArchivesDemo.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\WorkerDropdown.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <Page Update="MainMenu.xaml">
+    <Page Update="View\AddClientDataWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
-    <Page Update="MainWindow.xaml">
+    <Page Update="View\AddInvoiceDataWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddProjectDataWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\ArchivesDemo.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\WorkerDropdown.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

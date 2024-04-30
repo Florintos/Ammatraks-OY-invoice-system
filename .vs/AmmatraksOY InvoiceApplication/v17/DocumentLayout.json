@@ -1,22 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\",
+  "WorkspaceRootPath": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraksoy invoiceapplication\\ammatraksoy invoiceapplication\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\mainmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraks oy new repository\\ammatraksoy invoiceapplication\\view\\addclientdatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\view\\addclientdatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraksoy invoiceapplication\\ammatraksoy invoiceapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraks oy new repository\\ammatraksoy invoiceapplication\\view\\archivesdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\view\\archivesdemo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraksoy invoiceapplication\\ammatraksoy invoiceapplication\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\mainwindow.xaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraks oy new repository\\ammatraksoy invoiceapplication\\view\\archivesdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\view\\archivesdemo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraksoy invoiceapplication\\ammatraksoy invoiceapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraks oy new repository\\ammatraksoy invoiceapplication\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\model\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraks oy new repository\\ammatraksoy invoiceapplication\\view\\addinvoicedatawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\view\\addinvoicedatawindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraks oy new repository\\ammatraksoy invoiceapplication\\view\\addinvoicedatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\view\\addinvoicedatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|c:\\users\\florint sadiku\\visual studio projects\\ammatraks oy new repository\\ammatraksoy invoiceapplication\\view\\addprojectdatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{519582D7-9778-4923-AC8A-F43589E229ED}|AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication.csproj|solutionrelative:ammatraksoy invoiceapplication\\view\\addprojectdatawindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 119,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArchivesDemo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\ArchivesDemo.xaml.cs",
+              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\View\\ArchivesDemo.xaml.cs",
+              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\ArchivesDemo.xaml.cs",
+              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\View\\ArchivesDemo.xaml.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAUwHsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T12:03:24.118Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -38,53 +63,74 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainMenu.xaml",
-              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication\\MainMenu.xaml",
-              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\MainMenu.xaml",
-              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication\\MainMenu.xaml",
-              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\MainMenu.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-15T14:35:24.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication\\MainWindow.xaml",
-              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-15T14:33:10.29Z",
-              "EditorCaption": ""
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\Model\\Client.cs",
+              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\Model\\Client.cs",
+              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\Model\\Client.cs",
+              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\Model\\Client.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAgwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:09:38.33Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication\\MainWindow.xaml",
-              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\MainWindow.xaml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Title": "ArchivesDemo.xaml",
+              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\ArchivesDemo.xaml",
+              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\View\\ArchivesDemo.xaml",
+              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\ArchivesDemo.xaml",
+              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\View\\ArchivesDemo.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-04-15T14:33:15.985Z",
+              "WhenOpened": "2024-04-29T13:08:24.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddClientDataWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\AddClientDataWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\View\\AddClientDataWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\AddClientDataWindow.xaml.cs",
+              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\View\\AddClientDataWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T13:07:09.745Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication\\MainWindow.xaml.cs",
-              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\AmmatraksOY InvoiceApplication\\AmmatraksOY InvoiceApplication\\MainWindow.xaml.cs",
-              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAJAAAA",
+              "DocumentIndex": 4,
+              "Title": "AddInvoiceDataWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\AddInvoiceDataWindow.xaml",
+              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\View\\AddInvoiceDataWindow.xaml",
+              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\AddInvoiceDataWindow.xaml",
+              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\View\\AddInvoiceDataWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-29T13:06:45.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddInvoiceDataWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\AddInvoiceDataWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\View\\AddInvoiceDataWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\AddInvoiceDataWindow.xaml.cs",
+              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\View\\AddInvoiceDataWindow.xaml.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwCEAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T14:33:03.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-29T12:57:21.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddProjectDataWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\AddProjectDataWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AmmatraksOY InvoiceApplication\\View\\AddProjectDataWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Florint Sadiku\\Visual studio Projects\\Ammatraks OY new repository\\AmmatraksOY InvoiceApplication\\View\\AddProjectDataWindow.xaml.cs",
+              "RelativeToolTip": "AmmatraksOY InvoiceApplication\\View\\AddProjectDataWindow.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-29T12:26:11.819Z"
             }
           ]
         }
